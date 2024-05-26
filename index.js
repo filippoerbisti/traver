@@ -12,7 +12,7 @@ setTimeout(() => {
         // Initial animation
         setTimeout(() => {
             span.classList.add("active");
-        }, 750 * (idx + 1));
+        }, 600 * (idx + 1));
     });
-}, 2000)
+}, 1700)
 
